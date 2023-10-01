@@ -1,3 +1,5 @@
 <?php
 
-$phpV = "Simple PHP application"
+$phpV = "Simple PHP application";
+
+echo $phpV;
